@@ -1,6 +1,6 @@
 {
   "name": "1pif-to-csv",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Convert 1Password 1pif files to csv",
   "main": "index.js",
   "directories": {
