@@ -11,6 +11,9 @@
     "lint": "./node_modules/gulp/bin/gulp.js lint",
     "release": "./node_modules/gulp/bin/gulp.js publish"
   },
+  "bin": {
+    "1pif-to-csv": "./bin/1pifToCSV.js"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/joeybaker/1pif-to-csv.git"
