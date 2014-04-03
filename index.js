@@ -1,7 +1,6 @@
 'use strict';
 
 var fs = require('fs')
-  , path = require('path')
   , through = require('through')
   , toJSON = require('./lib/1pif-to-json.js')
   , internals = {}
